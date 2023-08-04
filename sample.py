@@ -1,4 +1,2 @@
-"""Git"""
-def git1():
-    """Git"""
-    print("Send help")
+print("Send help")
+print("Nevermind am good now")
